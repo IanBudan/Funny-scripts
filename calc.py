@@ -1,3 +1,5 @@
+#This script works like a CLI calculator with basic operations like +, -, x and :
+#No libraries are needed here
 primer = int(input("Primer numero:"))
 signo1 = input("Operacion? (+ - * /):")
 segundo = int(input("Segundo numero:"))
