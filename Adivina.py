@@ -1,3 +1,5 @@
+#This is a script that generates numbers and you need to adivinate which number is
+#random librarie is needed here
 import random
 
 numero = random.randint(1, 10)
